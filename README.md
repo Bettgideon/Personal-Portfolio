@@ -11,12 +11,12 @@ And I'm currently improving my skills in MERN stack.
 
 I design and develop experience that make people's lives simple.
 
-##  My technical skills: 
+## My technical skills: 
 
-### Front-End Development:
+## Front-End Development:
 - Html5 | CSS3 | Styled Components | PHP | Bootstrap5 | JavaScript 
 
-### Backend Development:
+## Backend Development:
 - Node.js | Express.js | MongoDB | PHP
 
 ### Web & Graphic Design: 
